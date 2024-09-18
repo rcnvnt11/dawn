@@ -1,10 +1,10 @@
 {
-  "telegram_bot_token": "YOUR_TOKEN_ID FROM @BotFather",
-  "telegram_chat_id": "YOUR_CHAT_ID FROM @getmyid_bot",
+  "telegram_bot_token": "7352084651:AAErPovVNLj2t4fNsZbQ7sPzzMVcHSvc9PQ",
+  "telegram_chat_id": "5238623786t",
   "accounts": [ 
     {
-    "email": "example@domain.com",
-    "token": "tutorial get token: https://t.me/gsc_lobby/237601"
+    "email": "rico.novanto125@gmail.com",
+    "token": "2056b72d0eb33beb2a6d2d39c67296afa677fc1f271efaf0d84b5d50cd08aee410c07f2f8a6510b58ab067551517964a9b712a207a15ea4f311b2b0364b0fd4b752dee59f4517f495175e083187fcadf4aff95be3acf6b5d78eb2d065ba45e71ffe0efb705fab3f299cf2072b3c6f0018a03d08f227337c9648dbf29215c26800fc8cedd4897813fd27f7b161d097e2901073981f11424ef77357ed970364d51504156335c96ca68294af9d87be55af538cb31971c897932bde2415500e904f60e8484a314c55b9b364ea391c8d84adfc8854b7ad6b0071fd51456a36742be386f556011f60e2d2a3184349c4c1f2823c6548fea276c60fc940f6659003121bd"
     },
     {
     "email": "example@domain.com",
